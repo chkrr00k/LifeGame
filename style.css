@@ -1,0 +1,14 @@
+
+#start{
+	background-color: green;
+}
+
+#stop{
+	background-color: red;
+}
+
+input[type="button"]{
+	background-color: yellow;
+	border: 2px solid;
+	border-radius: 3px;
+}
